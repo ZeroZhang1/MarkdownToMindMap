@@ -9,4 +9,4 @@
 pip install graphviz
 ```
 
-使用是，将需要转换的Markdown文件放入MD文件夹中，将mindmap.py中的filename该为Markdown文件的名字，运行这个程序，结果会保存在PDF文件夹中。
+使用时，将需要转换的Markdown文件放入MD文件夹中，将mindmap.py中的filename该为Markdown文件的名字，运行这个程序，结果会保存在PDF文件夹中。
